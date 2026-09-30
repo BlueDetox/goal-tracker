@@ -1,0 +1,7 @@
+__pycache__/
+backups/
+*.lock
+*.pyc
+goals_data.json
+*.bak
+
